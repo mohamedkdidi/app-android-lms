@@ -1,0 +1,42 @@
+[
+  {
+    "title":"Learn Something",
+    "provider":"youtube",
+    "image":"https://i.imgsafe.org/8656c1e83e.jpg",
+    "arguments":[
+      "PLrEnWoR732-DZV1Jc8bUpVTF_HTPbywpE"
+    ]
+  },
+  {
+    "title":"Inspiring Stories",
+    "provider":"youtube",
+    "image":"https://i.imgsafe.org/8656b0d5b2.jpeg",
+    "arguments":[
+      "PLrEnWoR732-AtjHiRPQD7-Xaqa3SaXo-4"
+    ]
+  },
+  {
+    "title":"Look Good, Feel Good",
+    "provider":"youtube",
+    "image":"https://i.imgsafe.org/8656b5f8e3.jpeg",
+    "arguments":[
+      "PLrEnWoR732-ByK1fe0UAOPbvy5TF5SALg"
+    ]
+  },
+  {
+    "title":"Game Overload",
+    "provider":"youtube",
+    "image":"https://i.imgsafe.org/8656a5adb7.jpeg",
+    "arguments":[
+      "PLrEnWoR732-CFfUX4TPybGxiO7q_5OS8D"
+    ]
+  },
+  {
+    "title":"Hot Trailers",
+    "provider":"youtube",
+    "image":"https://i.imgsafe.org/8667b518d3.jpeg",
+    "arguments":[
+      "PLrEnWoR732-CvU2EIng1mKhlXJHvaiAVM"
+    ]
+  }
+]
